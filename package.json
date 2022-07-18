@@ -4,7 +4,7 @@
   "displayName": "UniGame PSB Deconstructor",
   "description": "Deconstruct your PSB into Prefabs",
   "unity": "2020.3",
-  "version": "2022.0.3",
+  "version": "2022.0.4",
   "keywords": [
     "UniGame",
     "modules",
@@ -14,7 +14,7 @@
     "prefab"
   ],
   "dependencies": {
-    "com.unigame.atlasgenerator": "2022.1.4",
-    "com.unigame.coremodules": "2022.4.0"
+    "com.unigame.atlasgenerator": "2022.1.5",
+    "com.unigame.coremodules": "2022.4.5"
   }
 }
