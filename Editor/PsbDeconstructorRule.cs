@@ -1,10 +1,11 @@
 ﻿namespace UniGame.Tools.PsbDeconstructor
 {
     using System;
+    
     using UniModules.UniGame.CoreModules.UniGame.GraphicsTools.Editor;
 
 #if ODIN_INSPECTOR
-    using Sirenix.Utilities.Editor;
+    using Sirenix.OdinInspector;
 #endif
     
     [Serializable]
